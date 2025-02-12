@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Mauro</h1>
 <h3 align="center">Estoy cursando para ser DevOps Engineer</h3>
 
-- Soy Sys admin en el circulopoliciafederal **soy sys admin**
+- Soy Sys admin en el circulopoliciafederal 
 
 - Cursos realizado **Linux Admin, Redes y reparacion de pc**
 
